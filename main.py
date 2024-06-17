@@ -1,1 +1,1 @@
-print("Hello, Mri,mncm,,sdmsdmldcas!")
+print("Hello, Mri,mncmdmldcas!")
